@@ -1,3 +1,3 @@
-<h1 align="center">Hey, I'm Elias Massadar! 👨🏻‍💻👋</h1>
+<p align="center">Hey, I'm Elias Massadar! 👨🏻‍💻👋</p>
 
 [LinkedIn](https://linkedin.com/in/eliasmassadar)
